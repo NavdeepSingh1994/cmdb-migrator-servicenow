@@ -1,0 +1,6 @@
+instance: "your-instance.service-now.com"
+user: "admin"
+password: "your_password"
+table_mapping:
+  BusinessApplication: "cmdb_ci_business_app"
+  ApplicationService: "cmdb_ci_appl"
