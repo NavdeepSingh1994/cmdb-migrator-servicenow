@@ -4,7 +4,6 @@ Ein leistungsstarkes Python-Tool zur Migration, Validierung und Integration von 
 
 Dieses Projekt demonstriert meine technische Erfahrung im Bereich Configuration Management, CMDB-Administration und API-gesteuerter Systemintegration – insbesondere in Verbindung mit Python, ServiceNow REST-APIs und dem CSDM-Modell. Die Anwendung erfüllt reale Anforderungen wie Datenvalidierung, Schnittstellenanbindung, Automatisierung und Qualitätssicherung.
 
----
 
 ## Features
 
@@ -16,7 +15,6 @@ Dieses Projekt demonstriert meine technische Erfahrung im Bereich Configuration 
 - E-Mail-Versand des Berichts über konfigurierbaren SMTP-Zugang (z. B. Gmail)
 - Streamlit-Weboberfläche zur Interaktion, Datenvorschau, PDF-Download und Mailversand
 
----
 
 ## Setup
 
@@ -28,14 +26,9 @@ python -m venv .venv
 pip install -r requirements.txt
 streamlit run app.py
 
+## Warum IT Service Management Configuration Manager?
 
----
-
-## Projektkontext und Qualifikationsrelevanz
-
-Die Applikation ist direkt im Kontext meiner beruflichen Weiterentwicklung entstanden und bildet ein praxisnahes Abbild der Anforderungen für Positionen im Configuration-, Asset- und Service Management. Die Architektur ist modular aufgebaut, vollständig dokumentiert und auf ServiceNow-Projekte übertragbar. Sie umfasst sowohl technische als auch prozessuale Anforderungen – einschließlich Datenmodellierung, Standardkonformität (CSDM), API-Kommunikation und automatisierte Qualitätssicherung.
-
----
+Die Stelle passt ideal zu meinem Profil: Ich bringe Erfahrung im Incident Management, in der Tooladministration (ServiceNow, Python, REST-APIs) und in der strukturierten Arbeit mit Konfigurationsdaten mit. Mein technischer Hintergrund, kombiniert mit Projektverantwortung und Weiterbildungsfokus (z. B. ITIL, PMA-Zertifizierung), machen mich zu einem Kandidaten, der sowohl die Systeme versteht als auch prozessorientiert denken kann.
 
 ## Fachliche Qualifikationen (Auszug)
 
@@ -61,13 +54,10 @@ Die Applikation ist direkt im Kontext meiner beruflichen Weiterentwicklung entst
 - Methodik: Schulung via Webex, Erstellung von Schulungsunterlagen, Go-Live-Begleitung
 - Ergebnis: Aufbau eines dedizierten Incident-Teams, das bis heute aktiv ist
 
----
-
 ## Sprachkenntnisse
 
 - Deutsch & Englisch: jeweils C1 (Nachweis Berlitz Sprachinstitut, 2018)
 
----
 
 ## Persönliche Weiterentwicklung
 
@@ -75,7 +65,6 @@ Die Applikation ist direkt im Kontext meiner beruflichen Weiterentwicklung entst
 - PMA Level C geplant ab 2026
 - Fokus auf autodidaktische Weiterbildung in Python
 
----
 
 ## Private Interessen
 
@@ -84,8 +73,6 @@ Die Applikation ist direkt im Kontext meiner beruflichen Weiterentwicklung entst
 - E-Sport: Teilnahme an Super Smash Bros. Ultimate Turnieren - Elite Smash
 - Fitness: Krafttraining (3x/Woche), täglich >10.000 Schritte
 - 
-
----
 
 ## Kontakt
 
