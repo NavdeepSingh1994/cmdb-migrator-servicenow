@@ -1,0 +1,4 @@
+Name,Type,Owner,Environment
+SAP-FI,BusinessApplication,Finance,Production
+WebShop,ApplicationService,eCommerce,Staging
+CRM-Server,Server,Marketing,Development
