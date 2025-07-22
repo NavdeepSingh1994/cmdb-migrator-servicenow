@@ -72,7 +72,6 @@ Die Stelle passt ideal zu meinem Profil: Ich bringe Erfahrung im Incident Manage
 - Kampfsport: Krav Maga (Level 5 angestrebt)
 - E-Sport: Teilnahme an Super Smash Bros. Ultimate Turnieren - Elite Smash
 - Fitness: Krafttraining (3x/Woche), täglich >10.000 Schritte
-- 
 
 ## Kontakt
 
